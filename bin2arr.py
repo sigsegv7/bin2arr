@@ -6,7 +6,6 @@
 
 import sys
 
-BLOCK_SIZE = 512
 GEN_MSG = \
 """
 /*
