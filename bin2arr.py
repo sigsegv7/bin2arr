@@ -1,5 +1,7 @@
 #
 # Convert binary file to C-array
+# Original author: Chloe M.
+# PUBLIC DOMAIN
 #
 
 import sys
